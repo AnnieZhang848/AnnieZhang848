@@ -2,8 +2,8 @@
 A computer science student at Carleton University. More specifically, I'm studying game development and hope to someday make a career in the games industry. I enjoy all manner of nerdy things from math to reading to tabletop games like dungeons and dragons. Feel free to take a look around my profile and reach out if something interestes you!
 <br></br>
 
--  🔭 I’m currently **looking for a co-op position**
--  🌱 I’m currently learning **Rust**
+-  🔭 I’m currently **looking for an entry-level position**
+-  🌱 I’m currently learning **Haskell**
 -  📫 How to reach me **anniezhang848@gmail.com**
 -  ⚡ I enjoy **learning new things**
 
